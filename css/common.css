@@ -1,0 +1,13 @@
+body {
+  background: #fff;
+  color: #262626;
+}
+
+.m_text {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.s_text {
+  font-size: 12px;
+}
